@@ -11,7 +11,8 @@
 .hover-black:hover{color: black;}
 .hover-white:hover{color: white;}
 .box-sizing-border-box{box-sizing: border-box;}
-
+.bg-none {background: none;}
+.outline-none {outline: none;}
 
 
 .fs-11 {font-size: 11px;}

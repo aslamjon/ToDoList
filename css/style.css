@@ -13,4 +13,14 @@ main {
     text-decoration: line-through;
     text-decoration-color: red; }
 
+.icon-chack, .icon-delete {
+  width: 28px;
+  transition: 0.3s; }
+
+.icon-chack:hover {
+  width: 30px; }
+
+.icon-delete:hover {
+  width: 30px; }
+
 /*# sourceMappingURL=style.css.map */

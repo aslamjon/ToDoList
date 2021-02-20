@@ -15,8 +15,8 @@ function Res() {
             `</div>
             
             <span>
-                <button type="button" class="btn btn-danger ml-3" onclick="Complated(${data[i].id})">Complated</button>
-                <button type="button" class="btn btn-danger ml-3" onclick="Delete(${data[i].id})">Delete</button> 
+                <img src="img/check1.svg" alt="check" class="cursor-pointer icon-chack" onclick="Complated(${data[i].id})">
+                <img src="img/delete (1).svg" alt="delete" class="cursor-pointer icon-delete"  onclick="Delete(${data[i].id})">
             </span>
         </div>
         `;
